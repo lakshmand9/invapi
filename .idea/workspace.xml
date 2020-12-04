@@ -10,7 +10,32 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afc05a5c-80bf-45f3-9355-e7543b5804c4" name="Default Changelist" comment="" />
+    <list default="true" id="afc05a5c-80bf-45f3-9355-e7543b5804c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curdpro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/curdpro/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2-2.8.6.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2-2.8.6.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2-2.8.6.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2-2.8.6.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2-2.8.6.dist-info/REQUESTED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2-2.8.6.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2-2.8.6.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/_ipaddress.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/_ipaddress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/_lru_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/_psycopg.cp36-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/_psycopg.cp36-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/errorcodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/errorcodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/extensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/extensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/extras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/pool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/sql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/tz.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/psycopg2/tz.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +116,7 @@
       <workItem from="1606971553432" duration="11876000" />
       <workItem from="1607047089517" duration="2336000" />
       <workItem from="1607054735035" duration="4051000" />
-      <workItem from="1607059222384" duration="3665000" />
+      <workItem from="1607059222384" duration="7682000" />
     </task>
     <servers />
   </component>
