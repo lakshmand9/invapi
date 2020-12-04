@@ -10,14 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afc05a5c-80bf-45f3-9355-e7543b5804c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Django_Lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/curdpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curdpro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/01da26d8-0c04-47ac-a996-6fa56b16f2ed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/01da26d8-0c04-47ac-a996-6fa56b16f2ed/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-    </list>
+    <list default="true" id="afc05a5c-80bf-45f3-9355-e7543b5804c4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +91,7 @@
       <workItem from="1606971553432" duration="11876000" />
       <workItem from="1607047089517" duration="2336000" />
       <workItem from="1607054735035" duration="4051000" />
-      <workItem from="1607059222384" duration="3298000" />
+      <workItem from="1607059222384" duration="3665000" />
     </task>
     <servers />
   </component>
